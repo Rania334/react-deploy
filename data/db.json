@@ -1,0 +1,16 @@
+{
+    "blogs":[
+        {
+            "title":"My First Blog",
+            "body":"Why did you use it it is been established so user don't use.",
+            "author":"Rania",
+            "id":1
+        },
+        {
+            "title":"Opinig party",
+            "body":"Why did you use it it is been established so user don't use.",
+            "author":"oreo",
+            "id":2
+        }
+    ]
+}
